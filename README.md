@@ -1,2 +1,2 @@
 # Advanced-Data-Analytics
-Advanced Data Analytics Course Projects
+Advanced Data Analytics Course Project
